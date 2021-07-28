@@ -38,8 +38,6 @@
   <span class="time-left">4:27</span>
 </div>
 
-</body>
-</html>
 
 
 
