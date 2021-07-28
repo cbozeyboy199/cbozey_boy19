@@ -33,9 +33,9 @@
 </div>
 
 <div class="container darker">
-  <img src="/w3images/avatar_g2.jpg" alt="Admin" class="right" style="width:100%;">
-  <p>i will pass out bans</p>
-  <span class="time-left">11:05</span>
+  <img src="/w3images/avatar_g2.jpg" alt="chat bot" class="right" style="width:100%;">
+  <p>keep all content clean and have a nice day :)</p>
+  <span class="time-left">4:27</span>
 </div>
 
 </body>
